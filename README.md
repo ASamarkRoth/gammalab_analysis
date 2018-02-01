@@ -12,7 +12,7 @@ It is possible to run the notebook on your local computer as follows:
 
 1. Install [miniconda3](https://conda.io/miniconda.html) alternatively the full [anaconda3](https://www.anaconda.com/download) environment on your laptop (the latter is **much** larger).
 2. [Download](https://github.com/mlund/jupyter-course/archive/master.zip) this repository.
-3. Install and activate the `ChainCongruency` environment described by the file [`environment.yml`](/environment.yml)  by running the following in a terminal:
+3. Install and activate the `GammaLabAnalysis` environment described by the file [`environment.yml`](/environment.yml)  by running the following in a terminal:
 
 ```bash
 conda env create -f environment.yml
