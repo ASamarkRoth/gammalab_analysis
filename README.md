@@ -11,7 +11,7 @@ You can run it in the web browser on mybinder (without installing anything) by c
 It is possible to run the notebook on your local computer as follows:
 
 1. Install [miniconda3](https://conda.io/miniconda.html) alternatively the full [anaconda3](https://www.anaconda.com/download) environment on your laptop (the latter is **much** larger).
-2. [Download](https://github.com/mlund/jupyter-course/archive/master.zip) this repository.
+2. [Download](https://github.com/ASamarkRoth/gammalab_analysis/edit/archive/master.zip) this repository.
 3. Install and activate the `GammaLabAnalysis` environment described by the file [`environment.yml`](/environment.yml)  by running the following in a terminal:
 
 ```bash
