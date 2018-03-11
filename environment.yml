@@ -1,4 +1,3 @@
-name: GammaLabAnalysis
 channels:
     - defaults
     - conda-forge
