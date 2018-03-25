@@ -1,6 +1,7 @@
 channels:
     - conda-forge
 dependencies:
+    - jupyterlab
     - python=3.6.3
     - numpy
     - scipy
