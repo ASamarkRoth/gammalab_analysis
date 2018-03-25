@@ -21,3 +21,4 @@ source activate GammaLabAnalysis
 ```
 4. Run the notebook via `jupyter-notebook`
 
+[Jupyter-lab binder](https://mybinder.org/v2/gh/ASamarkRoth/gammalab_analysis/master?urlpath=lab) (not fully working yet)
