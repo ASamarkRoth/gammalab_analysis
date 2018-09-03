@@ -1,9 +1,11 @@
+name: GammaLabAnalysis
 channels:
   - conda-forge
   - defaults
 dependencies:
   - nodejs
   - python=3.6.5
+  - ipympl
   - ipykernel
   - jupyter
   - jupyterlab

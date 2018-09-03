@@ -9,3 +9,4 @@ jupyter nbextension enable hide_input/main
 jupyter nbextension enable hide_input_all/main
 jupyter nbextension enable latex_envs/latex_envs
 
+jupyter labextension install @jupyter-widgets/jupyterlab-manager jupyter-matplotlib
