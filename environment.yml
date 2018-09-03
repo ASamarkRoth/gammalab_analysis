@@ -1,8 +1,15 @@
 channels:
-    - conda-forge
+  - conda-forge
+  - defaults
 dependencies:
-    - jupyterlab
-    - python=3.6.3
-    - numpy
-    - scipy
-    - matplotlib
+  - python=3.6.5
+  - ipykernel
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - cython
+  - numpy
+  - scipy
+  - pandas
+  - nbconvert
+  - nbstripout
