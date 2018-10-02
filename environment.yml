@@ -6,7 +6,7 @@ dependencies:
   - nodejs
   - python=3.6.5
   - ipympl
-  - ipykernel
+  - ipykernel=4.9.0
   - jupyter
   - jupyterlab
   - matplotlib
